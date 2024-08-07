@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quranFinderPro/static/css/main.c330ecff.css",
+    "main.js": "/quranFinderPro/static/js/main.68840180.js",
+    "static/media/wp2650402-quran-wallpaper-hd.jpg": "/quranFinderPro/static/media/wp2650402-quran-wallpaper-hd.d3a7c29758d6a2f492d4.jpg",
+    "index.html": "/quranFinderPro/index.html",
+    "main.c330ecff.css.map": "/quranFinderPro/static/css/main.c330ecff.css.map",
+    "main.68840180.js.map": "/quranFinderPro/static/js/main.68840180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c330ecff.css",
+    "static/js/main.68840180.js"
+  ]
+}
