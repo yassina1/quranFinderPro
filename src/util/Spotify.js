@@ -3,7 +3,7 @@ import axios from 'axios';
 const clientId = '775da9ed4ec449a0af36d935bb12f081';
 const clientSecret = '3ed4b92dec29418fb341206bb56eab72';
 // const redirectUri = 'http://localhost:3000/callback';
-const redirectUri = 'https://github.com/yassina1/quranFinderPro.git';
+const redirectUri = 'http://localhost:3000';
 const authorizeUrl = 'https://accounts.spotify.com/authorize';
 const tokenUrl = 'https://accounts.spotify.com/api/token';
 

@@ -2,6 +2,7 @@ body,
 html,
 #root {
   height: 100%;
+  background-color: #BEC6A0;
 }
 
 html {
@@ -10,7 +11,7 @@ html {
 
 h1 {
   padding: .77rem 0;
-  background-color: #010c3f;
+  background-color: #BEC6A0;
   text-align: center;
   font-family: 'Poppins', sans-serif;
   font-size: 1.88rem;
@@ -18,7 +19,7 @@ h1 {
 }
 
 h1 .highlight {
-  color: #6c41ec;
+  color: #1A3636;
 }
 
 h2 {
